@@ -14,9 +14,7 @@ st.set_page_config(
 # df = pd.read_csv('https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv') -> DataFrame da Aula
 
 # Meu DataFrame
-df = pd.read_csv(
-    'C:\\Users\\biels\\OneDrive\\Documentos\\Dashboard Interativo\\dados-final.csv'
-)
+df = pd.read_csv('dados-final.csv')
 
 
 #------------------------------------------- Barra lateral (Filtros) ------------------------------------------------------
